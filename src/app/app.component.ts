@@ -1,6 +1,5 @@
 import {Component, OnDestroy} from '@angular/core';
-import {interval, Subscription, timer} from 'rxjs';
-import {take} from 'rxjs/operators';
+import {Subscription, timer} from 'rxjs';
 
 @Component({
   selector: 'app-root',
