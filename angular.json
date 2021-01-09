@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "test-angular-interval"
+    }
+  },
+  "defaultProject": "test-angular-interval",
+  "cli": {
+    "analytics": false
+  }
 }
